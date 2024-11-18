@@ -7,8 +7,8 @@ Design a user-friendly web app for patients to seaarch for doctors by specially,
 
 <h2>Technology</h2>
 <ui>
-  Frontend: React
-  Backend: Laravel (PHP)
+  Frontend: React <br>
+  Backend: Laravel (PHP) <br>
   Database (MySql)
   
 </ui>
